@@ -2,3 +2,7 @@
 *.o
 *.order
 *.symvers
+*.doc
+*.docx
+*.odt
+*.pdf
