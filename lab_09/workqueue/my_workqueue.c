@@ -8,7 +8,7 @@
 #include "ascii_names.h"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Kalashkov Pavel");
+MODULE_AUTHOR("ALEX");
 
 
 struct my_work
