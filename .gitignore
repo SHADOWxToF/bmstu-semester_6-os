@@ -5,4 +5,11 @@
 *.doc
 *.docx
 *.odt
-*.pdf
+*.aux
+*.log
+*.blg
+*.out
+*.tok
+*.gz
+*.bbl
+*.toc
